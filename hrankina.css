@@ -1,10 +1,6 @@
 h1 {
   text-align: center;
-  margin-top: 6%;
-}
-
-p{
-   margin-left: 2%;
+  margin-top: 7%;
 }
 
 .header1{
@@ -23,4 +19,24 @@ p{
   position: fixed;
   top: 4%;
   right: 0;
+}
+
+img{
+   margin-left: 2%;
+   margin-right: 2%;
+   width: 30%;
+}
+
+p{
+   margin-left: 2%;
+   width: 64%;
+   margin-left: 2%;
+}
+
+.pull-left{
+  float: left;
+}
+
+.row{
+  display: table;
 }
