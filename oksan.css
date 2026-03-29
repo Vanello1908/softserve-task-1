@@ -126,7 +126,7 @@ table{
 }
 
 .show-work:hover {
-  background-color: var(--grey); /* Легкий ховер-ефект */
+  background-color: var(--grey); 
 }
 
 
@@ -144,19 +144,19 @@ p {
 }
 
 .social-links {
-    display: flex;       /* Ставить елементи в ряд */
-    gap: 15px;           /* Відстань між іконками */
-    margin-top: 30px;    /* Відступ зверху від таблиці */
-    padding-left: 8px;   /* Щоб вирівняти по лівому краю з таблицею */
+    display: flex;       
+    gap: 15px;           
+    margin-top: 30px;    
+    padding-left: 8px;   
 }
 
 .social-icon img {
-    width: 40px;         /* Розмір іконок */
+    width: 40px;         
     height: 40px;
     transition: transform 0.3s ease;
 }
 
 .social-icon:hover img {
-    transform: scale(1.1); /* Легке збільшення при наведенні */
-    filter: brightness(1.2); /* Стане трохи яскравішою */
+    transform: scale(1.1); 
+    filter: brightness(1.2); 
 }
