@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  font-family: Trebuchet MS, Tahoma, Verdana;
+}
+
+img{
+   width: 30%;
+   
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 2%;
+  padding: 2%;
+}
+
+.text-block {
+  display: flex;
+  flex-direction: column; 
+  width: 65%;
+}
+
+p{
+  font-size:170%;
+  font-family: Trebuchet MS, Tahoma, Verdana;
+  text-indent: 40px;
+}
