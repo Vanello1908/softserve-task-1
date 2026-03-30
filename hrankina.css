@@ -1,11 +1,13 @@
 h1 {
   text-align: center;
-  font-family: Trebuchet MS, Tahoma, Verdana;
+  font-family:
+    Trebuchet MS,
+    Tahoma,
+    Verdana;
 }
 
-img{
-   width: 30%;
-   
+img {
+  width: 30%;
 }
 
 .row {
@@ -17,12 +19,15 @@ img{
 
 .text-block {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   width: 65%;
 }
 
-p{
-  font-size:170%;
-  font-family: Trebuchet MS, Tahoma, Verdana;
+p {
+  font-size: 170%;
+  font-family:
+    Trebuchet MS,
+    Tahoma,
+    Verdana;
   text-indent: 40px;
 }
